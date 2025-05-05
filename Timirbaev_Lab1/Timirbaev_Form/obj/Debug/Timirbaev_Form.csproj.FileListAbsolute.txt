@@ -1,0 +1,20 @@
+C:\Users\User\Documents\GitHub\System programming\Timirbaev_Lab1\Timirbaev_Form\bin\Debug\Timirbaev_Form.exe.config
+C:\Users\User\Documents\GitHub\System programming\Timirbaev_Lab1\Timirbaev_Form\bin\Debug\Timirbaev_Form.exe
+C:\Users\User\Documents\GitHub\System programming\Timirbaev_Lab1\Timirbaev_Form\bin\Debug\Timirbaev_Form.pdb
+C:\Users\User\Documents\GitHub\System programming\Timirbaev_Lab1\Timirbaev_Form\obj\Debug\Timirbaev_Form.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\System programming\Timirbaev_Lab1\Timirbaev_Form\obj\Debug\Timirbaev_Form.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\System programming\Timirbaev_Lab1\Timirbaev_Form\obj\Debug\Timirbaev_Form.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\System programming\Timirbaev_Lab1\Timirbaev_Form\obj\Debug\Timirbaev_Form.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\System programming\Timirbaev_Lab1\Timirbaev_Form\obj\Debug\Timirbaev_Form.exe
+C:\Users\User\Documents\GitHub\System programming\Timirbaev_Lab1\Timirbaev_Form\obj\Debug\Timirbaev_Form.pdb
+C:\Users\User\Documents\GitHub\System programming\Timirbaev_Lab1\Timirbaev_Form\obj\Debug\Timirbaev_Form.Form1.resources
+C:\Users\User\Documents\GitHub\System_programming\Timirbaev_Lab1\Timirbaev_Form\bin\Debug\Timirbaev_Form.exe.config
+C:\Users\User\Documents\GitHub\System_programming\Timirbaev_Lab1\Timirbaev_Form\bin\Debug\Timirbaev_Form.exe
+C:\Users\User\Documents\GitHub\System_programming\Timirbaev_Lab1\Timirbaev_Form\bin\Debug\Timirbaev_Form.pdb
+C:\Users\User\Documents\GitHub\System_programming\Timirbaev_Lab1\Timirbaev_Form\obj\Debug\Timirbaev_Form.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\System_programming\Timirbaev_Lab1\Timirbaev_Form\obj\Debug\Timirbaev_Form.Form1.resources
+C:\Users\User\Documents\GitHub\System_programming\Timirbaev_Lab1\Timirbaev_Form\obj\Debug\Timirbaev_Form.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\System_programming\Timirbaev_Lab1\Timirbaev_Form\obj\Debug\Timirbaev_Form.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\System_programming\Timirbaev_Lab1\Timirbaev_Form\obj\Debug\Timirbaev_Form.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\System_programming\Timirbaev_Lab1\Timirbaev_Form\obj\Debug\Timirbaev_Form.exe
+C:\Users\User\Documents\GitHub\System_programming\Timirbaev_Lab1\Timirbaev_Form\obj\Debug\Timirbaev_Form.pdb
